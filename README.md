@@ -13,4 +13,5 @@ This website was intended for practice and is based on a Christmas theme with a 
 ## Website
 https://steftinsley.github.io/deck-the-halls/
 
-![Screenshot](https://github.com/steftinsley/pumpkin-spice-practice/blob/main/assets/images/pumpkin-spice.png)
+![Responsive](https://github.com/steftinsley/deck-the-halls/blob/main/assets/images/project2.png)
+![Screenshot](https://github.com/steftinsley/deck-the-halls/blob/main/assets/images/screenshot-deck-the-halls.png)
