@@ -14,5 +14,5 @@ This website was intended for practice and is based on a Christmas theme with a 
 https://steftinsley.github.io/deck-the-halls/
 
 ![Responsive](https://github.com/steftinsley/deck-the-halls/blob/main/assets/images/project2.png)
-![Screenshot](https://github.com/steftinsley/deck-the-halls/blob/main/assets/images/screenshot-deck-the-halls.png)
+![Screenshot](https://github.com/steftinsley/deck-the-halls/blob/main/assets/images/screen-deck-the-halls.png)
 
