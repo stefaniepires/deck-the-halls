@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+  background: #3A5154;
+  font-family: "Nunito", sans-serif;
+}
+
+
+
+#mainNavbar {
+  font-size: 1.3rem;
+  font-weight: 100;
+}
+#mainNavbar .navbar-brand {
+  color: #dd9869;
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+  color: white;
+}
+
+
+#mainNavbar .nav-link:hover {
+  color:#dd9869;
+}
+
+#headingGroup span {
+  color:#dd9869;
+}
+
+.heading-text {
+ font-weight: 100;
+ font-size: 4rem;
+ font-family: 'Nunito', sans-serif;
+ letter-spacing: 0.2em;
+ opacity: .5;
+}
+
+
+.blurb h2 {
+  color:#dd9869;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+  font-size: 2.5rem;
+}
+
+.blurb p {
+  color:#fbcbaa;
+  font-weight: 100;
+  font-size: 1.125rem;
+line-height: 2.3;
+}
+
+.icon {
+  opacity: .8;
+}
+
+.content {
+  margin-top: 100px;
+}
+
+.navbar.scrolled {
+  background: #a74249;
+}
+
+@media (max-width: 1400px) {
+  .heading-text {
+  font-weight: 100;
+  font-size: 3rem;
+  }
+}
