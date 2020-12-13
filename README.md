@@ -1,11 +1,12 @@
 # Deck The Halls- Practice Site 
 
 ## Description
-This website was intended for practice and is based on a Christmas theme. 
+This website was intended for practice and is based on a Christmas theme with a Christmas photo event in mind. 
 
 ## Built With
 * HTML
 * CSS 
+* Bootstrap
 * Javascript
 
 
